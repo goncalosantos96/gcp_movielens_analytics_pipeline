@@ -66,3 +66,8 @@ This ensures the principle of **least privilege** is respected.
 4. Create analytical views (Gold)  
 5. Connect Metabase to BigQuery  
 6. Build dashboards and analyze KPIs  
+
+## Dashboard
+
+![Dashboard](images/dashboard_v1.png)
+![Dashboard](images/dashboard_v2.png)
